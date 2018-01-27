@@ -1,5 +1,5 @@
 # WhackAMole
-//Name: Jonathan Hassel and Zachary Pell
+Jonathan Hassel and Zachary Pell
 
 INSTRUCTIONS:
     -Whack the mole when it pops up
