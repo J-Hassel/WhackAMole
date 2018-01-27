@@ -1,7 +1,5 @@
 # WhackAMole
 //Name: Jonathan Hassel and Zachary Pell
-//Date: 5/3/17
-//Class: cop3252 - Thrasher
 
 INSTRUCTIONS:
     -Whack the mole when it pops up
